@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello World!!!
 the next day
+=======
+Hello World!!!new
+>>>>>>> 11f3cc938356661d199a31de520fc7f64c44a80e
